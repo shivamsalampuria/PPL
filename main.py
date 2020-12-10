@@ -1,4 +1,3 @@
-
 class animal:
     def __init__(self, legs=4, eyes=2, tail=1):
         self.legs=legs
